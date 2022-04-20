@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import * as cartActions from "../../redux/actions/cartActions";
-import { Badge, Table, Button } from "reactstrap";
+import { Table, Button } from "reactstrap";
 import alertify from "alertifyjs"; 
 
 
